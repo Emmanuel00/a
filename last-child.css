@@ -4,6 +4,7 @@ ul {
 }
 li {
   display: inline-block;
+  text-align: center;
 }
 li:first-child {
   background-color: red;
